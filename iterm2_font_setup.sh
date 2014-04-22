@@ -9,7 +9,7 @@ cp Ricty-Bold.ttf ~/Library/Fonts/
 cp Ricty-Regular.ttf ~/Library/Fonts/
 cp RictyDiscord-Bold.ttf ~/Library/Fonts/
 cp RictyDiscord-Regular.ttf ~/Library/Fonts/
-open iterm2
+echo "open iterm2!"
 echo "open profile from preference of iterm2 and duplicate default setting " 
 echo "in case, you want to set default again. Then name the new setting" 
 echo "Go Text and change the setting to Ricty Font! that is it have fun! :)"
